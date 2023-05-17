@@ -4,6 +4,8 @@
 
 # Restart your validator three times during Mission 2
 
+humanvaloper1lngjsefg92rpyjk9860wnm6mspkz9x2gfazeds
+
 ### Restart 1 - 2023-05-16 07:10:50 UTC
 ~~~bash
 ubuntu@Humans-T:~$ sudo systemctl restart humansd && sudo journalctl -u humansd -f
